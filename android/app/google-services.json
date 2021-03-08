@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298347284976",
+    "project_id": "fartmagazinetrial",
+    "storage_bucket": "fartmagazinetrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298347284976:android:8e3a594a2ffb94737cb535",
+        "android_client_info": {
+          "package_name": "com.example.fartmagazinetrial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298347284976-ch4p19q58emtklji9ia12i5meq6o60rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fartmagazinetrial1",
+            "certificate_hash": "1f1fb6dd1dc2bb5984af962fe07f7074f558f566"
+          }
+        },
+        {
+          "client_id": "298347284976-rvsc5l0viqcijmfi7frmkcodfotorcbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKaPPXpNA3WTM1mF1db49lbh3XreMzpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298347284976-rvsc5l0viqcijmfi7frmkcodfotorcbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
